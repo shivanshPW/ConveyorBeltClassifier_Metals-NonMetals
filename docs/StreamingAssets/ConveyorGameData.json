@@ -18,8 +18,8 @@
       "reactor": 0,
 
       "containers": [
-        { "name": "Metal", "id": "Metal" },
-        { "name": "Non-Metals", "id": "Non-Metals" }
+        { "name": "Non-Metals", "id": "Non-Metals" },
+        { "name": "Metal", "id": "Metal" }
       ],
 
       "items": [
@@ -99,8 +99,8 @@
       "reactor": 1,
 
       "containers": [
-        { "name": "Metal", "id": "Metal" },
-        { "name": "Non-Metals", "id": "Non-Metals" }
+        { "name": "Non-Metals", "id": "Non-Metals" },
+        { "name": "Metal", "id": "Metal" }
       ],
       "items": [
         {
@@ -190,9 +190,9 @@
       "reactor": 0,
 
       "containers": [
-        { "name": "Metal", "icon": "weak_acid_beaker.png" },
+        { "name": "Metalloid","icon": "weak_base_beaker.png" },
         { "name": "Non-Metal","icon": "strong_acid_beaker.png" },
-        { "name": "Metalloid","icon": "weak_base_beaker.png" }
+        { "name": "Metal", "icon": "weak_acid_beaker.png" }
         ],
 
       "items": [
