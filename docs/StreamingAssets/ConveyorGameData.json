@@ -9,7 +9,7 @@
       "level": 1,
       "objective_text": "Sort substances into Acid, Base, or Neutral beakers!",
       "conveyor_speed_modifier": 0.5,
-      "total_items_in_level": 10,
+      "total_items_in_level": 1,
       "item_spawn_interval_seconds": 6,
       "xp_per_correct": 5,
       "xp_per_incorrect": -2,
@@ -18,8 +18,8 @@
       "reactor": 0,
 
       "containers": [
-        { "name": "Non-Metals", "id": "Non-Metals" },
-        { "name": "Metal", "id": "Metal" }
+        { "name": "Metal", "id": "Metal" },
+        { "name": "Non-Metals", "id": "Non-Metals" }
       ],
 
       "items": [
@@ -90,7 +90,7 @@
       "level": 2,
       "objective_text": "Observe the reactions and sort substances correctly!",
       "conveyor_speed_modifier": 0.5,
-      "total_items_in_level": 10,
+      "total_items_in_level": 1,
       "item_spawn_interval_seconds": 5,
       "xp_per_correct": 7,
       "xp_per_incorrect": -3,
@@ -99,8 +99,8 @@
       "reactor": 1,
 
       "containers": [
-        { "name": "Non-Metals", "id": "Non-Metals" },
-        { "name": "Metal", "id": "Metal" }
+        { "name": "Metal", "id": "Metal" },
+        { "name": "Non-Metals", "id": "Non-Metals" }
       ],
       "items": [
         {
@@ -181,7 +181,7 @@
       "level": 3,
       "objective_text": "Expert sorting: Identify weak and strong acids/bases by image alone!",
       "conveyor_speed_modifier": 0.5,
-      "total_items_in_level": 10,
+      "total_items_in_level": 1,
       "item_spawn_interval_seconds": 9,
       "xp_per_correct": 8,
       "xp_per_incorrect": -4,
@@ -190,9 +190,9 @@
       "reactor": 0,
 
       "containers": [
-        { "name": "Metalloid","icon": "weak_base_beaker.png" },
+        { "name": "Metal", "icon": "weak_acid_beaker.png" },
         { "name": "Non-Metal","icon": "strong_acid_beaker.png" },
-        { "name": "Metal", "icon": "weak_acid_beaker.png" }
+        { "name": "Metalloid","icon": "weak_base_beaker.png" }
         ],
 
       "items": [
