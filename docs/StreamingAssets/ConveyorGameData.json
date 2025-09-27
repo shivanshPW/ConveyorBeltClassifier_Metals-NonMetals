@@ -18,8 +18,8 @@
       "reactor": 0,
 
       "containers": [
-        { "name": "Metal", "id": "Metal" },
-        { "name": "Non-Metals", "id": "Non-Metals" }
+        { "name": "Non-Metals", "id": "Non-Metal" },
+        { "name": "Metal", "id": "Metal" }
       ],
 
       "items": [
@@ -32,7 +32,7 @@
         {
           "id": "C",
           "display_text": "C",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "NAME"
         },
         {
@@ -44,7 +44,7 @@
         {
           "id": "O",
           "display_text": "O",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "NAME"
         },
         {
@@ -56,7 +56,7 @@
         {
           "id": "S",
           "display_text": "S",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "NAME"
         },
         {
@@ -68,7 +68,7 @@
         {
           "id": "Cl",
           "display_text": "Cl",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "NAME"
         },
         {
@@ -80,7 +80,7 @@
         {
           "id": "H",
           "display_text": "H",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "NAME"
         }
       ]
@@ -99,22 +99,21 @@
       "reactor": 1,
 
       "containers": [
-        { "name": "Metal", "id": "Metal" },
-        { "name": "Non-Metals", "id": "Non-Metals" }
+        { "name": "Non-Metals", "id": "Non-Metal" },
+        { "name": "Metal", "id": "Metal" }
       ],
       "items": [
         {
           "id": "Ag",
           "display_text": "Lustrous",
           "correct_category_name": "Metal",
-
           "presentation_mode": "PROPERTY_CUE",
           "reaction_type": "NO_REACTION"
         },
         {
           "id": "P",
           "display_text": "Brittle",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "PROPERTY_CUE",
           "reaction_type": "NO_REACTION"
         },
@@ -128,7 +127,7 @@
         {
           "id": "I",
           "display_text": "Non-Lustrous",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "PROPERTY_CUE",
           "reaction_type": "PH_INDICATOR_RED"
         },
@@ -142,7 +141,7 @@
         {
           "id": "Br",
           "display_text": "Vapor Cloud",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "PROPERTY_CUE",
           "reaction_type": "PH_INDICATOR_GREEN"
         },
@@ -156,7 +155,7 @@
         {
           "id": "N",
           "display_text": "Gas State",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "PROPERTY_CUE",
           "hint_text": "Bitter taste indicator?"
         },
@@ -170,7 +169,7 @@
         {
           "id": "Ne",
           "display_text": "Gas State",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "PROPERTY_CUE",
           "reaction_type": "METAL_BUBBLES"
         }
@@ -205,7 +204,7 @@
         {
           "id": "S",
           "display_text": "",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "IMAGE_ONLY"
         },
         {
@@ -223,7 +222,7 @@
         {
           "id": "C",
           "display_text": "",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "IMAGE_ONLY"
         },
         {
@@ -241,7 +240,7 @@
         {
           "id": "Cl",
           "display_text": "",
-          "correct_category_name": "Non-Metals",
+          "correct_category_name": "Non-Metal",
           "presentation_mode": "IMAGE_ONLY"
         },
         {
