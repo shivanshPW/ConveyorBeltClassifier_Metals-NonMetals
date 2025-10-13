@@ -18,7 +18,7 @@
       "reactor": 0,
 
       "containers": [
-        { "name": "Non-Metals", "id": "Non-Metal" },
+        { "name": "Non-Metal", "id": "Non-Metal" },
         { "name": "Metal", "id": "Metal" }
       ],
 
@@ -99,7 +99,7 @@
       "reactor": 1,
 
       "containers": [
-        { "name": "Non-Metals", "id": "Non-Metal" },
+        { "name": "Non-Metal", "id": "Non-Metal" },
         { "name": "Metal", "id": "Metal" }
       ],
       "items": [
